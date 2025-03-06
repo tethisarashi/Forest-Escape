@@ -1,0 +1,15 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Das Zwischenverzeichnis (x64\Debug\) enthält freigegebene Dateien aus einem anderen Projekt (Ue9_Meisterstueck.vcxproj). Dies kann zu einem falschen Bereinigungs- und Neuerstellungsverhalten führen.
+  DunklesFeld.cpp
+  Feld.cpp
+  FelderPrint.cpp
+  FeldPosition.cpp
+  Game.cpp
+  GebFeld.cpp
+  HellesFeld.cpp
+  NebelFeld.cpp
+  Player.cpp
+  RandFeld.cpp
+  SeeFeld.cpp
+  Forest-Escape.cpp
+  Code wird generiert...
+  Ue9_Meisterstueck.vcxproj -> C:\Users\natal\source\repos\Ue9_Meisterstueck\x64\Debug\Forest-Escape.exe
